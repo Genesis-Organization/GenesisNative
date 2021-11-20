@@ -1,16 +1,30 @@
-# genesisnative
+<h1 align="center">Welcome to Genesis 👋</h1>
+<p>
+  <a href="opensource.org/licenses/MIT" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-A new Flutter project.
+> Cause it all started with curiosity
 
-## Getting Started
+### 🏠 [Homepage](genesis.mslotwinski.eu)
 
-This project is a starting point for a Flutter application.
+### ✨ [Demo](genesis-foundation.netlify.app)
 
-A few resources to get you started if this is your first Flutter project:
+## Author
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+👤 **Mateusz Słotwiński**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Website: mslotwinski.eu
+* Github: [@Paprotka2137](https://github.com/Paprotka2137)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [Mateusz Słotwiński](https://github.com/Paprotka2137).<br />
+This project is [MIT](opensource.org/licenses/MIT) licensed.
+
+***
